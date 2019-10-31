@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
+
+What discussed dynamic memory function 
+returns memory initialized byte-wise with zeros?
+
+calloc - initialized with byte zeros
+realloc - initialized with previous memory
+
+What does the calloc return when allocation of memory fails? 
+NULL Pointer
